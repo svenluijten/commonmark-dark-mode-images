@@ -1,0 +1,3 @@
+<p><img class="light-image" src="/example-one-light.jpg" alt="image one light" /></p>
+<p>a bit of text here</p>
+<p><img class="dark-image" src="/example-one-dark.jpg" alt="image one dark" /></p>

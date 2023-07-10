@@ -1,0 +1,4 @@
+<p><picture class="dark-mode-images-picture"><source media="(prefers-color-scheme: dark)" srcset="/example-one-dark.jpg" /><img class="" src="/example-one-light.jpg" alt="image one light" /></picture>
+
+<picture class="dark-mode-images-picture"><source media="(prefers-color-scheme: dark)" srcset="/example-two-dark.jpg" /><img class="" src="/example-two-light.jpg" alt="image two light" /></picture>
+</p>

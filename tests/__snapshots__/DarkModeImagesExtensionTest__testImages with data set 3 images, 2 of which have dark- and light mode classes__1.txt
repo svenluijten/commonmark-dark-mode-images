@@ -1,0 +1,3 @@
+<p><picture class="dark-mode-images-picture"><source media="(prefers-color-scheme: dark)" srcset="/example-dark.jpg" /><img class="" src="/example-light.jpg" alt="image one" /></picture>
+
+<img src="/example-three.jpg" alt="image three" /></p>

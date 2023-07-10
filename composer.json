@@ -1,0 +1,43 @@
+{
+    "name": "sven/commonmark-dark-mode-images",
+    "description": "Use different images in light- and dark mode in CommonMark-rendered Markdown",
+    "keywords": [
+        "commonmark",
+        "markdown",
+        "images",
+        "darkmode",
+        "dark",
+        "light",
+        "color scheme",
+        "prefers-color-scheme"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Luijten",
+            "email": "contact@svenluijten.com",
+            "homepage": "https://svenluijten.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^2.3"
+    },
+    "require-dev": {
+        "ext-dom": "*",
+        "phpunit/phpunit": "^10.0",
+        "spatie/phpunit-snapshot-assertions": "^5.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sven\\CommonMark\\DarkModeImages\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sven\\CommonMark\\DarkModeImages\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
