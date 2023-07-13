@@ -43,6 +43,16 @@ look something like this:
 </picture>
 ```
 
+And the result in the browser:
+
+<details>
+    <summary>Click to reveal</summary>
+
+![Side by side](https://github.com/svenluijten/commonmark-dark-mode-images/assets/11269635/b05f3a5d-ea14-463d-956a-43643166c45f)
+
+Or check out [the first blog post I used this on](https://svenluijten.com/posts/enable-intellisense-for-php-extensions-in-phpstorm).
+</details>
+
 ## Configuration
 
 ### Fallback or original
