@@ -5,6 +5,8 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-build]][link-build]
 
+# ⚠️ This package is abandoned. Use [`sven/commonmark-image-media-queries`](https://github.com/svenluijten/commonmark-image-media-queries) instead ⚠️
+
 This [CommonMark](https://commonmark.thephpleague.com) extension allows you to determine what images to show in dark- or 
 light mode in Markdown converted using CommonMark.
 
